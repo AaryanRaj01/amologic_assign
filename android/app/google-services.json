@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139859168650",
+    "project_id": "amologicassign",
+    "storage_bucket": "amologicassign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139859168650:android:65f8854f7ec72b587a4c73",
+        "android_client_info": {
+          "package_name": "com.example.amolgic_assignment"
+        }
+      },
+
+
+      "oauth_client": [
+        {
+          "client_id": "139859168650-vgfe3kc8ljoaa1ov6jqnlvquibi02a1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBX-5J-mCg6kRyVth0bQ-bCnnQ63Ivyas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139859168650-vgfe3kc8ljoaa1ov6jqnlvquibi02a1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139859168650-fs5n1vggh9ckqn3ktasli2gr05ff78jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amolgicAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
